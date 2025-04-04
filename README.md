@@ -4,8 +4,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xfeeddeadbeef&hide=cmake&langs_count=4&line_height=35&theme=dark" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xfeeddeadbeef&theme=dark" />
-
 <!--
 **0xfeeddeadbeef/0xfeeddeadbeef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
